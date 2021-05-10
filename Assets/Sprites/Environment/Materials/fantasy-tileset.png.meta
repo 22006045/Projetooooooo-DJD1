@@ -1,0 +1,6694 @@
+fileFormatVersion: 2
+guid: b2437a714b93a814db52be14e8038c77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5540560929230879705
+    second: fantasy-tileset_0
+  - first:
+      213: -8528275528972263596
+    second: fantasy-tileset_1
+  - first:
+      213: -4030419673463702229
+    second: fantasy-tileset_2
+  - first:
+      213: 7724249226848826837
+    second: fantasy-tileset_3
+  - first:
+      213: 6913648384851564489
+    second: fantasy-tileset_4
+  - first:
+      213: 1906773138480164881
+    second: fantasy-tileset_5
+  - first:
+      213: -1886518405089154510
+    second: fantasy-tileset_6
+  - first:
+      213: -1233879270005637309
+    second: fantasy-tileset_7
+  - first:
+      213: -2910866023388054973
+    second: fantasy-tileset_8
+  - first:
+      213: -5876620391618104751
+    second: fantasy-tileset_9
+  - first:
+      213: -5417800100767688229
+    second: fantasy-tileset_10
+  - first:
+      213: 7750937544221602005
+    second: fantasy-tileset_11
+  - first:
+      213: 1008094691508647805
+    second: fantasy-tileset_12
+  - first:
+      213: 4814919721043376384
+    second: fantasy-tileset_13
+  - first:
+      213: -6580142217386256552
+    second: fantasy-tileset_14
+  - first:
+      213: 4579243771910879093
+    second: fantasy-tileset_15
+  - first:
+      213: -5011697511830001324
+    second: fantasy-tileset_16
+  - first:
+      213: 7213819880057416053
+    second: fantasy-tileset_17
+  - first:
+      213: -6712216077966121394
+    second: fantasy-tileset_18
+  - first:
+      213: -8077081541785928779
+    second: fantasy-tileset_19
+  - first:
+      213: 5497132294069786235
+    second: fantasy-tileset_20
+  - first:
+      213: -5518000945165798151
+    second: fantasy-tileset_21
+  - first:
+      213: 1428993598892915318
+    second: fantasy-tileset_22
+  - first:
+      213: 2947339618037972350
+    second: fantasy-tileset_23
+  - first:
+      213: 2796734474744599544
+    second: fantasy-tileset_24
+  - first:
+      213: 4965168510845820712
+    second: fantasy-tileset_25
+  - first:
+      213: -2576446200169491007
+    second: fantasy-tileset_26
+  - first:
+      213: -7494588264200140068
+    second: fantasy-tileset_27
+  - first:
+      213: -5877776999250526428
+    second: fantasy-tileset_28
+  - first:
+      213: -7896045432736577089
+    second: fantasy-tileset_29
+  - first:
+      213: -6844666400877546826
+    second: fantasy-tileset_30
+  - first:
+      213: -927319508164441075
+    second: fantasy-tileset_31
+  - first:
+      213: 985365843048149142
+    second: fantasy-tileset_32
+  - first:
+      213: 3248773155225967244
+    second: fantasy-tileset_33
+  - first:
+      213: 1348347189256805029
+    second: fantasy-tileset_34
+  - first:
+      213: -1084896313759828054
+    second: fantasy-tileset_35
+  - first:
+      213: 3636705925622837700
+    second: fantasy-tileset_36
+  - first:
+      213: -8421064167028278737
+    second: fantasy-tileset_37
+  - first:
+      213: -6416744513608088849
+    second: fantasy-tileset_38
+  - first:
+      213: 8694473940574346283
+    second: fantasy-tileset_39
+  - first:
+      213: 5325036484120114441
+    second: fantasy-tileset_40
+  - first:
+      213: -7688743166605882962
+    second: fantasy-tileset_41
+  - first:
+      213: -2791070666442269920
+    second: fantasy-tileset_42
+  - first:
+      213: -7454385571116498233
+    second: fantasy-tileset_43
+  - first:
+      213: 8195586091882512539
+    second: fantasy-tileset_44
+  - first:
+      213: 4644201986982790383
+    second: fantasy-tileset_45
+  - first:
+      213: 7276908524807818707
+    second: fantasy-tileset_46
+  - first:
+      213: -6735715535609320245
+    second: fantasy-tileset_47
+  - first:
+      213: 3051724645666590405
+    second: fantasy-tileset_48
+  - first:
+      213: -7902515990195535552
+    second: fantasy-tileset_49
+  - first:
+      213: -3592449550220431594
+    second: fantasy-tileset_50
+  - first:
+      213: -1388440324897937209
+    second: fantasy-tileset_51
+  - first:
+      213: 5723883232391451346
+    second: fantasy-tileset_52
+  - first:
+      213: 4156854533550575938
+    second: fantasy-tileset_53
+  - first:
+      213: -9219602507394046171
+    second: fantasy-tileset_54
+  - first:
+      213: -4016502842198131973
+    second: fantasy-tileset_55
+  - first:
+      213: -7010667237846405213
+    second: fantasy-tileset_56
+  - first:
+      213: 1494814208491068031
+    second: fantasy-tileset_57
+  - first:
+      213: -3064329805684358327
+    second: fantasy-tileset_58
+  - first:
+      213: 2234865149677442593
+    second: fantasy-tileset_59
+  - first:
+      213: -8265591951794907537
+    second: fantasy-tileset_60
+  - first:
+      213: 5978243881527681093
+    second: fantasy-tileset_61
+  - first:
+      213: 1986837758717392971
+    second: fantasy-tileset_62
+  - first:
+      213: 554770863731791614
+    second: fantasy-tileset_63
+  - first:
+      213: -3519056913219931219
+    second: fantasy-tileset_64
+  - first:
+      213: 8439510059165348681
+    second: fantasy-tileset_65
+  - first:
+      213: 2206415654418183135
+    second: fantasy-tileset_66
+  - first:
+      213: 8543629316012703790
+    second: fantasy-tileset_67
+  - first:
+      213: 1710708876774490792
+    second: fantasy-tileset_68
+  - first:
+      213: 8844813529081762032
+    second: fantasy-tileset_69
+  - first:
+      213: 7127846398622239797
+    second: fantasy-tileset_70
+  - first:
+      213: -8128256727262526282
+    second: fantasy-tileset_71
+  - first:
+      213: -4123809116985420174
+    second: fantasy-tileset_72
+  - first:
+      213: -6611153959510183514
+    second: fantasy-tileset_73
+  - first:
+      213: 445769079185082233
+    second: fantasy-tileset_74
+  - first:
+      213: -3028001621000829951
+    second: fantasy-tileset_75
+  - first:
+      213: 8747977833915300282
+    second: fantasy-tileset_76
+  - first:
+      213: 5067902416147120332
+    second: fantasy-tileset_77
+  - first:
+      213: 1349179002653250635
+    second: fantasy-tileset_78
+  - first:
+      213: 1048595188984782034
+    second: fantasy-tileset_79
+  - first:
+      213: -4650850275656155338
+    second: fantasy-tileset_80
+  - first:
+      213: -2014637570507952168
+    second: fantasy-tileset_81
+  - first:
+      213: 6751712694717259935
+    second: fantasy-tileset_82
+  - first:
+      213: 3627524673897027508
+    second: fantasy-tileset_83
+  - first:
+      213: -2181449052348835929
+    second: fantasy-tileset_84
+  - first:
+      213: -1713854474404969562
+    second: fantasy-tileset_85
+  - first:
+      213: -1079139608998772312
+    second: fantasy-tileset_86
+  - first:
+      213: 7519830214284189054
+    second: fantasy-tileset_87
+  - first:
+      213: 8165935918133025528
+    second: fantasy-tileset_88
+  - first:
+      213: 7766045210434411402
+    second: fantasy-tileset_89
+  - first:
+      213: -7284914182584639275
+    second: fantasy-tileset_90
+  - first:
+      213: -2588823126644354792
+    second: fantasy-tileset_91
+  - first:
+      213: 1289448868149252148
+    second: fantasy-tileset_92
+  - first:
+      213: -3078948059233826739
+    second: fantasy-tileset_93
+  - first:
+      213: 4524986365097785791
+    second: fantasy-tileset_94
+  - first:
+      213: -2056093125983918824
+    second: fantasy-tileset_95
+  - first:
+      213: -147811608718582352
+    second: fantasy-tileset_96
+  - first:
+      213: -5492539829648978348
+    second: fantasy-tileset_97
+  - first:
+      213: 8872747667581503473
+    second: fantasy-tileset_98
+  - first:
+      213: -6294550535803599035
+    second: fantasy-tileset_99
+  - first:
+      213: 7048015179794450178
+    second: fantasy-tileset_100
+  - first:
+      213: -124333301315253110
+    second: fantasy-tileset_101
+  - first:
+      213: 6932463394365018933
+    second: fantasy-tileset_102
+  - first:
+      213: -7947461412473035273
+    second: fantasy-tileset_103
+  - first:
+      213: 440154593759696455
+    second: fantasy-tileset_104
+  - first:
+      213: -2557580795725576988
+    second: fantasy-tileset_105
+  - first:
+      213: 8891405997154784441
+    second: fantasy-tileset_106
+  - first:
+      213: 7116858345581898841
+    second: fantasy-tileset_107
+  - first:
+      213: 2629774671519225080
+    second: fantasy-tileset_108
+  - first:
+      213: -7810725673283016633
+    second: fantasy-tileset_109
+  - first:
+      213: -6871345045860986165
+    second: fantasy-tileset_110
+  - first:
+      213: 3686081646001397199
+    second: fantasy-tileset_111
+  - first:
+      213: 3749226251534059730
+    second: fantasy-tileset_112
+  - first:
+      213: 4744036641841821663
+    second: fantasy-tileset_113
+  - first:
+      213: 3648736774676827121
+    second: fantasy-tileset_114
+  - first:
+      213: -5153157648882587646
+    second: fantasy-tileset_115
+  - first:
+      213: 8037905141359192170
+    second: fantasy-tileset_116
+  - first:
+      213: 5223777348212429330
+    second: fantasy-tileset_117
+  - first:
+      213: -9186801130637752152
+    second: fantasy-tileset_118
+  - first:
+      213: 3245875913121820106
+    second: fantasy-tileset_119
+  - first:
+      213: 2536150286902207853
+    second: fantasy-tileset_120
+  - first:
+      213: 6066695878731177743
+    second: fantasy-tileset_121
+  - first:
+      213: -6737639510896516610
+    second: fantasy-tileset_122
+  - first:
+      213: 6522309582639638341
+    second: fantasy-tileset_123
+  - first:
+      213: 9003947920373432278
+    second: fantasy-tileset_124
+  - first:
+      213: 8756923538084545134
+    second: fantasy-tileset_125
+  - first:
+      213: -8324104712647302102
+    second: fantasy-tileset_126
+  - first:
+      213: -4916665574660445534
+    second: fantasy-tileset_127
+  - first:
+      213: -6350698045809522494
+    second: fantasy-tileset_128
+  - first:
+      213: -1426134399100388267
+    second: fantasy-tileset_129
+  - first:
+      213: 2991978148252989052
+    second: fantasy-tileset_130
+  - first:
+      213: 7089637743406818456
+    second: fantasy-tileset_131
+  - first:
+      213: 1655910261989133638
+    second: fantasy-tileset_132
+  - first:
+      213: 4948380776862299451
+    second: fantasy-tileset_133
+  - first:
+      213: 7935310477868949710
+    second: fantasy-tileset_134
+  - first:
+      213: -7291675698325153351
+    second: fantasy-tileset_135
+  - first:
+      213: 5731960209742350554
+    second: fantasy-tileset_136
+  - first:
+      213: -3491364400176616396
+    second: fantasy-tileset_137
+  - first:
+      213: -686328890070474844
+    second: fantasy-tileset_138
+  - first:
+      213: -7307213989606587699
+    second: fantasy-tileset_139
+  - first:
+      213: -1398236343506663916
+    second: fantasy-tileset_140
+  - first:
+      213: 50327568931598455
+    second: fantasy-tileset_141
+  - first:
+      213: -3458196222730142705
+    second: fantasy-tileset_142
+  - first:
+      213: 2641064150132431202
+    second: fantasy-tileset_143
+  - first:
+      213: 2490664722144508276
+    second: fantasy-tileset_144
+  - first:
+      213: -3534240751243543603
+    second: fantasy-tileset_145
+  - first:
+      213: 8972793132350676798
+    second: fantasy-tileset_146
+  - first:
+      213: -4993404949563994536
+    second: fantasy-tileset_147
+  - first:
+      213: -9160590909549420617
+    second: fantasy-tileset_148
+  - first:
+      213: -841010341038168546
+    second: fantasy-tileset_149
+  - first:
+      213: -8670252604052892731
+    second: fantasy-tileset_150
+  - first:
+      213: 2440533008600665230
+    second: fantasy-tileset_151
+  - first:
+      213: 7181820263568265194
+    second: fantasy-tileset_152
+  - first:
+      213: -3893329808383217621
+    second: fantasy-tileset_153
+  - first:
+      213: -764880954105367302
+    second: fantasy-tileset_154
+  - first:
+      213: 7608715701441961317
+    second: fantasy-tileset_155
+  - first:
+      213: 221590899719460002
+    second: fantasy-tileset_156
+  - first:
+      213: -3492803859648409994
+    second: fantasy-tileset_157
+  - first:
+      213: -6960764231454448665
+    second: fantasy-tileset_158
+  - first:
+      213: -3458778310814244575
+    second: fantasy-tileset_159
+  - first:
+      213: -9191483932937271722
+    second: fantasy-tileset_160
+  - first:
+      213: 5237238041319756947
+    second: fantasy-tileset_161
+  - first:
+      213: -7005116066996686081
+    second: fantasy-tileset_162
+  - first:
+      213: 3814991319006135921
+    second: fantasy-tileset_163
+  - first:
+      213: -7227557905602712326
+    second: fantasy-tileset_164
+  - first:
+      213: -6374658233019645987
+    second: fantasy-tileset_165
+  - first:
+      213: -1008497511458628560
+    second: fantasy-tileset_166
+  - first:
+      213: -7011314955537922932
+    second: fantasy-tileset_167
+  - first:
+      213: -4880722676698819621
+    second: fantasy-tileset_168
+  - first:
+      213: -7330657926690811238
+    second: fantasy-tileset_169
+  - first:
+      213: 2079081369317150121
+    second: fantasy-tileset_170
+  - first:
+      213: 3886471620265707726
+    second: fantasy-tileset_171
+  - first:
+      213: -6046304067622262798
+    second: fantasy-tileset_172
+  - first:
+      213: -5245712728503987898
+    second: fantasy-tileset_173
+  - first:
+      213: -2150749793978850839
+    second: fantasy-tileset_174
+  - first:
+      213: -2304898294767180636
+    second: fantasy-tileset_175
+  - first:
+      213: 7141588279304380645
+    second: fantasy-tileset_176
+  - first:
+      213: -2745111598071257526
+    second: fantasy-tileset_177
+  - first:
+      213: 3464334651021218936
+    second: fantasy-tileset_178
+  - first:
+      213: 7730930824718462031
+    second: fantasy-tileset_179
+  - first:
+      213: -3717217053188162197
+    second: fantasy-tileset_180
+  - first:
+      213: 7680207774780072066
+    second: fantasy-tileset_181
+  - first:
+      213: -2226297927564551682
+    second: fantasy-tileset_182
+  - first:
+      213: -5375204969966009524
+    second: fantasy-tileset_183
+  - first:
+      213: -8782922292602356837
+    second: fantasy-tileset_184
+  - first:
+      213: -1672567665897438622
+    second: fantasy-tileset_185
+  - first:
+      213: -6704322306380680287
+    second: fantasy-tileset_186
+  - first:
+      213: -8621434785118112904
+    second: fantasy-tileset_187
+  - first:
+      213: 1954189374489859653
+    second: fantasy-tileset_188
+  - first:
+      213: -4735351130641498257
+    second: fantasy-tileset_189
+  - first:
+      213: -2929329528789095339
+    second: fantasy-tileset_190
+  - first:
+      213: 3603059598022118648
+    second: fantasy-tileset_191
+  - first:
+      213: -8082403574378317288
+    second: fantasy-tileset_192
+  - first:
+      213: 3354856269735963589
+    second: fantasy-tileset_193
+  - first:
+      213: -5173247145937878084
+    second: fantasy-tileset_194
+  - first:
+      213: -5879559325115889508
+    second: fantasy-tileset_195
+  - first:
+      213: -7921539688702801867
+    second: fantasy-tileset_196
+  - first:
+      213: 4805895700947390366
+    second: fantasy-tileset_197
+  - first:
+      213: 7215750105521568029
+    second: fantasy-tileset_198
+  - first:
+      213: 5656812498380127084
+    second: fantasy-tileset_199
+  - first:
+      213: 1235362719576390043
+    second: fantasy-tileset_200
+  - first:
+      213: -5321384367141267446
+    second: fantasy-tileset_201
+  - first:
+      213: -1353932992110579254
+    second: fantasy-tileset_202
+  - first:
+      213: -1302945006950401215
+    second: fantasy-tileset_203
+  - first:
+      213: 1633645944446880457
+    second: fantasy-tileset_204
+  - first:
+      213: 7164769443996398399
+    second: fantasy-tileset_205
+  - first:
+      213: -6208800417491107461
+    second: fantasy-tileset_206
+  - first:
+      213: 6746150901286281554
+    second: fantasy-tileset_207
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 28}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasy-tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72409c4a039fb13b0800000000000000
+      internalID: -5540560929230879705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f93f4579a75a980800000000000000
+      internalID: -8528275528972263596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d337b39a21118c0800000000000000
+      internalID: -4030419673463702229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5f8ea3fbb023b60800000000000000
+      internalID: 7724249226848826837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7d701739632ff50800000000000000
+      internalID: 6913648384851564489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110fd522118367a10800000000000000
+      internalID: 1906773138480164881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aac6a718db1d5e0800000000000000
+      internalID: -1886518405089154510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f789f575160eee0800000000000000
+      internalID: -1233879270005637309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a733f26c68a97d0800000000000000
+      internalID: -2910866023388054973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15239c5b3ec027ea0800000000000000
+      internalID: -5876620391618104751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd99aa9538b10d4b0800000000000000
+      internalID: -5417800100767688229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0319751acd09b60800000000000000
+      internalID: 7750937544221602005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d777453e7c87dfd00800000000000000
+      internalID: 1008094691508647805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00930dac9f702d240800000000000000
+      internalID: 4814919721043376384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85714213483aea4a0800000000000000
+      internalID: -6580142217386256552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577faacd2fdbc8f30800000000000000
+      internalID: 4579243771910879093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459e9a58aafd27ab0800000000000000
+      internalID: -5011697511830001324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5792970e5f2ac1460800000000000000
+      internalID: 7213819880057416053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46e9293a0b69d2a0800000000000000
+      internalID: -6712216077966121394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb3cf7c12178ef80800000000000000
+      internalID: -8077081541785928779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b769b5742bcb94c40800000000000000
+      internalID: 5497132294069786235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f47f11406f1c63b0800000000000000
+      internalID: -5518000945165798151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ab1586b1ec4d310800000000000000
+      internalID: 1428993598892915318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7db69554cd07e820800000000000000
+      internalID: 2947339618037972350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f39d32ef2fffc620800000000000000
+      internalID: 2796734474744599544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f9bea3472d7e440800000000000000
+      internalID: 4965168510845820712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c51effd4df9e3cd0800000000000000
+      internalID: -2576446200169491007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda0a868eafddf790800000000000000
+      internalID: -7494588264200140068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ff5b206f0fd6ea0800000000000000
+      internalID: -5877776999250526428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb90463938c9b6290800000000000000
+      internalID: -7896045432736577089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b274a94c2cd201a0800000000000000
+      internalID: -6844666400877546826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c819a02df7123f0800000000000000
+      internalID: -927319508164441075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69030b87309bcad00800000000000000
+      internalID: 985365843048149142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a9111d8f5f51d20800000000000000
+      internalID: 3248773155225967244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa5c81ff9a46b210800000000000000
+      internalID: 1348347189256805029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7f638fc8ca1f0f0800000000000000
+      internalID: -1084896313759828054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1be4175cc287230800000000000000
+      internalID: 3636705925622837700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a328db1ce522b80800000000000000
+      internalID: -8421064167028278737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe204fbbcd423f6a0800000000000000
+      internalID: -6416744513608088849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c13d0dbf9f8a870800000000000000
+      internalID: 8694473940574346283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90579f3187456e940800000000000000
+      internalID: 5325036484120114441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea98e31a3d81c4590800000000000000
+      internalID: -7688743166605882962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b12bf34002449d0800000000000000
+      internalID: -2791070666442269920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2cdce61d3bc8890800000000000000
+      internalID: -7454385571116498233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b900ac4e0229cb170800000000000000
+      internalID: 8195586091882512539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4c543e915837040800000000000000
+      internalID: 4644201986982790383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd8e24afb5ccf460800000000000000
+      internalID: 7276908524807818707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc2def586ee582a0800000000000000
+      internalID: -6735715535609320245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce03418567e95a20800000000000000
+      internalID: 3051724645666590405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0410d84839f945290800000000000000
+      internalID: -7902515990195535552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f699dea2e052ec0800000000000000
+      internalID: -3592449550220431594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c861aa71e44bbce0800000000000000
+      internalID: -1388440324897937209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2d18239715f6f40800000000000000
+      internalID: 5723883232391451346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241114f9c2d10b930800000000000000
+      internalID: 4156854533550575938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5272a78fd546d0080800000000000000
+      internalID: -9219602507394046171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfafe6302f38248c0800000000000000
+      internalID: -4016502842198131973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af22b19a4b15be90800000000000000
+      internalID: -7010667237846405213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a115e4a95aeb410800000000000000
+      internalID: 1494814208491068031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943ca89f6405975d0800000000000000
+      internalID: -3064329805684358327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1269c674306d30f10800000000000000
+      internalID: 2234865149677442593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66dfeea9e7ba4d80800000000000000
+      internalID: -8265591951794907537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5402c1bd22df6f250800000000000000
+      internalID: 5978243881527681093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48fea23a6aa29b10800000000000000
+      internalID: 1986837758717392971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef658784921f2b700800000000000000
+      internalID: 554770863731791614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3b427d16cc92fc0800000000000000
+      internalID: -3519056913219931219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943f2e23fa92f1570800000000000000
+      internalID: 8439510059165348681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f47cf853ce9e10800000000000000
+      internalID: 2206415654418183135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e200d89c891119670800000000000000
+      internalID: 8543629316012703790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a24042e8a8adb710800000000000000
+      internalID: 1710708876774490792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0dc79fa071fba70800000000000000
+      internalID: 8844813529081762032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c0d6bd8823be260800000000000000
+      internalID: 7127846398622239797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b486586291a23f80800000000000000
+      internalID: -8128256727262526282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276119cf47945c6c0800000000000000
+      internalID: -4123809116985420174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a17aff40867044a0800000000000000
+      internalID: -6611153959510183514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9770ea0ad90bf2600800000000000000
+      internalID: 445769079185082233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10440f891906af5d0800000000000000
+      internalID: -3028001621000829951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9338dbd7f076970800000000000000
+      internalID: 8747977833915300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc00bc6856ec45640800000000000000
+      internalID: 5067902416147120332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b441097972f39b210800000000000000
+      internalID: 1349179002653250635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc1f98c4cb5d8e00800000000000000
+      internalID: 1048595188984782034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fbcf7c05cd47fb0800000000000000
+      internalID: -4650850275656155338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa7babdc19a04e0800000000000000
+      internalID: -2014637570507952168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f902e1a7ce6e2bd50800000000000000
+      internalID: 6751712694717259935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d891b87e875230800000000000000
+      internalID: 3627524673897027508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7922b05afe9b1e0800000000000000
+      internalID: -2181449052348835929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c0689f6a2738e0800000000000000
+      internalID: -1713854474404969562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1039e3e302601f0800000000000000
+      internalID: -1079139608998772312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d98a5fcbdcb5860800000000000000
+      internalID: 7519830214284189054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa1cead37b335170800000000000000
+      internalID: 8165935918133025528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b119df8f886cb60800000000000000
+      internalID: 7766045210434411402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d066d7e529c6ea90800000000000000
+      internalID: -7284914182584639275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8111c0e1517a21cd0800000000000000
+      internalID: -2588823126644354792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430d01ee9ea05e110800000000000000
+      internalID: 1289448868149252148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d484d779d016545d0800000000000000
+      internalID: -3078948059233826739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9b329ef1bfbce30800000000000000
+      internalID: 4524986365097785791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8152b90123a4773e0800000000000000
+      internalID: -2056093125983918824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd56a0002ed2fdf0800000000000000
+      internalID: -147811608718582352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e861b202496c3b0800000000000000
+      internalID: -5492539829648978348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f70fdb6ef4522b70800000000000000
+      internalID: 8872747667581503473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5478eac33a345a8a0800000000000000
+      internalID: -6294550535803599035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207853bc6749fc160800000000000000
+      internalID: 7048015179794450178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4a5d6587464ef0800000000000000
+      internalID: -124333301315253110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53396873abe053060800000000000000
+      internalID: 6932463394365018933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ab6be3f1f4b190800000000000000
+      internalID: -7947461412473035273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7469d4f554ebb1600800000000000000
+      internalID: 440154593759696455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e48a6221d5a18cd0800000000000000
+      internalID: -2557580795725576988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4503e45ae946b70800000000000000
+      internalID: 8891405997154784441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cee2565f824c260800000000000000
+      internalID: 7116858345581898841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4193f6126de7420800000000000000
+      internalID: 2629774671519225080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74821f5126aba9390800000000000000
+      internalID: -7810725673283016633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2d054361414a0a0800000000000000
+      internalID: -6871345045860986165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd10033ab7972330800000000000000
+      internalID: 3686081646001397199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8c149596de70430800000000000000
+      internalID: 3749226251534059730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd73b66d03436d140800000000000000
+      internalID: 4744036641841821663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb4485c3cae2a230800000000000000
+      internalID: 3648736774676827121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20824c2cb6e4c78b0800000000000000
+      internalID: -5153157648882587646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a682001b3206c8f60800000000000000
+      internalID: 8037905141359192170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2121fe942d59e7840800000000000000
+      internalID: 5223777348212429330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a80e22ab0de18080800000000000000
+      internalID: -9186801130637752152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd6f9212faab0d20800000000000000
+      internalID: 3245875913121820106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65afc3bf37323320800000000000000
+      internalID: 2536150286902207853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f191c42cb313450800000000000000
+      internalID: 6066695878731177743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef16068ff881f72a0800000000000000
+      internalID: -6737639510896516610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547ac5c3206e38a50800000000000000
+      internalID: 6522309582639638341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb9f9bde274fc70800000000000000
+      internalID: 9003947920373432278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6249cccf87d68970800000000000000
+      internalID: 8756923538084545134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24a089edd6da7c80800000000000000
+      internalID: -8324104712647302102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aae8fe95be74cbb0800000000000000
+      internalID: -4916665574660445534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c881c756c9cdd7a0800000000000000
+      internalID: -6350698045809522494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cf7abe15a553ce0800000000000000
+      internalID: -1426134399100388267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76b95e0644a58920800000000000000
+      internalID: 2991978148252989052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89427f117f3736260800000000000000
+      internalID: 7089637743406818456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d49c12c99faf610800000000000000
+      internalID: 1655910261989133638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bf32591e2ca440800000000000000
+      internalID: 4948380776862299451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec060d726d2ef1e60800000000000000
+      internalID: 7935310477868949710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b91bf7d593ceca90800000000000000
+      internalID: -7291675698325153351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8cd5801730c8f40800000000000000
+      internalID: 5731960209742350554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c270a739e2c8fc0800000000000000
+      internalID: -3491364400176616396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afd244c28ba976f0800000000000000
+      internalID: -686328890070474844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc20cbb779f879a90800000000000000
+      internalID: -7307213989606587699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4168e392477789ce0800000000000000
+      internalID: -1398236343506663916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770b39448acc2b000800000000000000
+      internalID: 50327568931598455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c72949bd40200d0800000000000000
+      internalID: -3458196222730142705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26999a10ad1f6a420800000000000000
+      internalID: 2641064150132431202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47935026e5e909220800000000000000
+      internalID: 2490664722144508276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb3b6f03cad3fec0800000000000000
+      internalID: -3534240751243543603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f93d060d3c58c70800000000000000
+      internalID: 8972793132350676798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e8f8197acd3bab0800000000000000
+      internalID: -4993404949563994536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf52a74a1b0fd080800000000000000
+      internalID: -9160590909549420617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e166df9fc812454f0800000000000000
+      internalID: -841010341038168546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3958e81331da780800000000000000
+      internalID: -8670252604052892731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c024047d38ed120800000000000000
+      internalID: 2440533008600665230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef40b29a73faa360800000000000000
+      internalID: 7181820263568265194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20f0e1ca2d18f9c0800000000000000
+      internalID: -3893329808383217621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4761323d89265f0800000000000000
+      internalID: -764880954105367302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d92652e96979960800000000000000
+      internalID: 7608715701441961317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4dc3fcfbf331300800000000000000
+      internalID: 221590899719460002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e0b833561178fc0800000000000000
+      internalID: -3492803859648409994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3a9eaafc5666f90800000000000000
+      internalID: -6960764231454448665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_159
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1216713a373ffffc0800000000000000
+      internalID: -3458778310814244575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564092cf0a417080800000000000000
+      internalID: -9191483932937271722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394d60120486ea840800000000000000
+      internalID: 5237238041319756947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2f7404d04d8ce90800000000000000
+      internalID: -7005116066996686081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764f86546291f430800000000000000
+      internalID: 3814991319006135921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcebfac06e82bb90800000000000000
+      internalID: -7227557905602712326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf38588c1aa887a0800000000000000
+      internalID: -6374658233019645987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c94a84bd81102f0800000000000000
+      internalID: -1008497511458628560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8447ca023ec2be90800000000000000
+      internalID: -7011314955537922932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd35c20b590344cb0800000000000000
+      internalID: -4880722676698819621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9251b58475444a90800000000000000
+      internalID: -7330657926690811238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad084d6d716adc10800000000000000
+      internalID: 2079081369317150121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec80393e8558fe530800000000000000
+      internalID: 3886471620265707726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f720653c76371ca0800000000000000
+      internalID: -6046304067622262798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64156cff01c7337b0800000000000000
+      internalID: -5245712728503987898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1652125700722e0800000000000000
+      internalID: -2150749793978850839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4aff8763b5300e0800000000000000
+      internalID: -2304898294767180636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e708c3b40c1360800000000000000
+      internalID: 7141588279304380645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a466828bb8767e9d0800000000000000
+      internalID: -2745111598071257526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8745231a20ac31030800000000000000
+      internalID: 3464334651021218936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c2676ff98c94b60800000000000000
+      internalID: 7730930824718462031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df1b7e8cac96cc0800000000000000
+      internalID: -3717217053188162197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280a5f89744959a60800000000000000
+      internalID: 7680207774780072066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9935f84d99a11e0800000000000000
+      internalID: -2226297927564551682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4303421f8f6765b0800000000000000
+      internalID: -5375204969966009524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb39375bacc1680800000000000000
+      internalID: -8782922292602356837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262016bc198d9c8e0800000000000000
+      internalID: -1672567665897438622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b374226675f2a0800000000000000
+      internalID: -6704322306380680287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873b6d2cdb28a5880800000000000000
+      internalID: -8621434785118112904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5469f42e1ecae1b10800000000000000
+      internalID: 1954189374489859653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_189
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f7e535c37a84eb0800000000000000
+      internalID: -4735351130641498257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca676505ee857d0800000000000000
+      internalID: -2929329528789095339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_191
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc8ba45d93a00230800000000000000
+      internalID: 3603059598022118648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a35d185c885df80800000000000000
+      internalID: -8082403574378317288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbaa16a008de8e20800000000000000
+      internalID: 3354856269735963589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c11b312fe438b0800000000000000
+      internalID: -5173247145937878084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c1aee1fb976ea0800000000000000
+      internalID: -5879559325115889508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53806bc8f99011290800000000000000
+      internalID: -7921539688702801867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fcb826da8f1b240800000000000000
+      internalID: 4805895700947390366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19b9938d7e732460800000000000000
+      internalID: 7215750105521568029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bffe60ff8018e40800000000000000
+      internalID: 5656812498380127084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b997c1529d3e42110800000000000000
+      internalID: 1235362719576390043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a085a3bac15a626b0800000000000000
+      internalID: -5321384367141267446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1319bfd1dd53de0800000000000000
+      internalID: -1353932992110579254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b3ad26b620bede0800000000000000
+      internalID: -1302945006950401215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca838fb450eba610800000000000000
+      internalID: 1633645944446880457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f337af649df5e6360800000000000000
+      internalID: 7164769443996398399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71452a7ae8e5d9a0800000000000000
+      internalID: -6208800417491107461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_207
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251a95880842f9d50800000000000000
+      internalID: 6746150901286281554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 120, y: -256}
+      - {x: 114, y: -257}
+      - {x: 108, y: -257}
+      - {x: 113, y: -257}
+      - {x: 119, y: -256}
+      - {x: 122, y: -249}
+      - {x: 128, y: -213}
+      - {x: 121, y: -208}
+      - {x: 118, y: -207}
+      - {x: 112, y: -207}
+      - {x: 118, y: -207}
+      - {x: 128, y: -208}
+      - {x: 128, y: -159}
+      - {x: 9, y: -159}
+      - {x: -3, y: -169}
+      - {x: -3, y: -188}
+      - {x: 1, y: -194}
+      - {x: 30, y: -195}
+      - {x: 60, y: -231}
+      - {x: 62, y: -243}
+      - {x: 66, y: -255}
+      - {x: 59, y: -264}
+      - {x: 65, y: -251}
+      - {x: 64, y: -248}
+      - {x: 56, y: -242}
+      - {x: 51, y: -222}
+      - {x: 36, y: -224}
+      - {x: 34, y: -226}
+      - {x: 31, y: -242}
+      - {x: 31, y: -254}
+      - {x: 32, y: -275}
+      - {x: 31, y: -303}
+      - {x: 29, y: -290}
+      - {x: 26, y: -287}
+      - {x: 25, y: -287}
+      - {x: 22, y: -290}
+      - {x: 25, y: -286}
+      - {x: 31, y: -279}
+      - {x: 31, y: -243}
+      - {x: 30, y: -236}
+      - {x: 32, y: -226}
+      - {x: 27, y: -223}
+      - {x: 31, y: -217}
+      - {x: 34, y: -210}
+      - {x: 23, y: -198}
+      - {x: 18, y: -195}
+      - {x: 8, y: -196}
+      - {x: -4, y: -215}
+      - {x: -36, y: -230}
+      - {x: -34, y: -243}
+      - {x: -31, y: -244}
+      - {x: -30, y: -250}
+      - {x: -27, y: -257}
+      - {x: -42, y: -251}
+      - {x: -62, y: -256}
+      - {x: -66, y: -266}
+      - {x: -65, y: -283}
+      - {x: -61, y: -297}
+      - {x: -66, y: -307}
+      - {x: -65, y: -305}
+      - {x: -64, y: -287}
+      - {x: -90, y: -282}
+      - {x: -98, y: -295}
+      - {x: -93, y: -302}
+      - {x: -110, y: -287}
+      - {x: -110, y: -275}
+      - {x: -110, y: -277}
+      - {x: -108, y: -282}
+      - {x: -96, y: -279}
+      - {x: -96, y: -266}
+      - {x: -109, y: -255}
+      - {x: -125, y: -258}
+      - {x: -128, y: -270}
+      - {x: -128, y: -416}
+      - {x: 128, y: -416}
+      - {x: 128, y: -257}
+      - {x: 125, y: -249}
+    - - {x: -69, y: -376}
+      - {x: -72, y: -373}
+      - {x: -77, y: -373}
+      - {x: -77, y: -368}
+      - {x: -79, y: -367}
+      - {x: -78, y: -369}
+      - {x: -65, y: -369}
+      - {x: -66, y: -371}
+      - {x: -66, y: -377}
+      - {x: -62, y: -381}
+      - {x: -69, y: -381}
+    - - {x: -49, y: -380}
+      - {x: -46, y: -377}
+      - {x: -46, y: -372}
+      - {x: -50, y: -368}
+      - {x: -47, y: -368}
+      - {x: -46, y: -369}
+      - {x: -45, y: -369}
+      - {x: -47, y: -372}
+      - {x: -47, y: -381}
+    - - {x: -87, y: -351}
+      - {x: -81, y: -352}
+      - {x: -78, y: -349}
+      - {x: -79, y: -348}
+      - {x: -76, y: -351}
+      - {x: -79, y: -350}
+      - {x: -82, y: -350}
+    - - {x: -67, y: -351}
+      - {x: -65, y: -349}
+      - {x: -62, y: -352}
+      - {x: -59, y: -351}
+      - {x: -63, y: -350}
+      - {x: -65, y: -351}
+      - {x: -66, y: -350}
+    - - {x: -50, y: -351}
+      - {x: -48, y: -349}
+      - {x: -47, y: -349}
+      - {x: -44, y: -352}
+      - {x: -43, y: -351}
+      - {x: -47, y: -350}
+      - {x: -49, y: -351}
+      - {x: -50, y: -350}
+    - - {x: -34, y: -351}
+      - {x: -33, y: -350}
+      - {x: -33, y: -351}
+      - {x: -34, y: -350}
+    - - {x: -20, y: -351}
+      - {x: -14, y: -345}
+      - {x: -14, y: -342}
+      - {x: -19, y: -337}
+      - {x: -17, y: -334}
+      - {x: -17, y: -330}
+      - {x: -16, y: -331}
+      - {x: -16, y: -334}
+      - {x: -12, y: -338}
+      - {x: -12, y: -337}
+      - {x: -16, y: -341}
+      - {x: -16, y: -345}
+      - {x: -14, y: -347}
+      - {x: -14, y: -350}
+      - {x: -13, y: -351}
+      - {x: -15, y: -350}
+      - {x: -17, y: -351}
+      - {x: -18, y: -350}
+    - - {x: 14, y: -351}
+      - {x: 16, y: -348}
+      - {x: 19, y: -351}
+      - {x: 17, y: -350}
+      - {x: 15, y: -351}
+      - {x: 14, y: -350}
+    - - {x: 33, y: -349}
+      - {x: 35, y: -351}
+      - {x: 33, y: -350}
+      - {x: 32, y: -352}
+      - {x: 34, y: -351}
+    - - {x: 47, y: -352}
+      - {x: 50, y: -349}
+      - {x: 49, y: -347}
+      - {x: 52, y: -350}
+      - {x: 48, y: -349}
+      - {x: 44, y: -351}
+      - {x: 45, y: -352}
+    - - {x: 81, y: -348}
+      - {x: 83, y: -350}
+      - {x: 79, y: -350}
+      - {x: 80, y: -350}
+    - - {x: 97, y: -347}
+      - {x: 96, y: -346}
+      - {x: 100, y: -350}
+      - {x: 94, y: -350}
+      - {x: 95, y: -350}
+    - - {x: 113, y: -349}
+      - {x: 114, y: -350}
+      - {x: 111, y: -350}
+      - {x: 112, y: -350}
+    - - {x: -54, y: -336}
+      - {x: -58, y: -336}
+      - {x: -60, y: -338}
+      - {x: -63, y: -338}
+      - {x: -65, y: -340}
+      - {x: -68, y: -337}
+      - {x: -65, y: -338}
+      - {x: -62, y: -335}
+      - {x: -63, y: -332}
+      - {x: -57, y: -338}
+      - {x: -54, y: -338}
+      - {x: -49, y: -333}
+      - {x: -46, y: -336}
+      - {x: -45, y: -335}
+      - {x: -47, y: -334}
+      - {x: -50, y: -337}
+      - {x: -49, y: -341}
+      - {x: -49, y: -340}
+    - - {x: -37, y: -337}
+      - {x: -36, y: -338}
+      - {x: -32, y: -334}
+      - {x: -29, y: -337}
+      - {x: -29, y: -336}
+      - {x: -34, y: -341}
+      - {x: -33, y: -341}
+      - {x: -33, y: -340}
+    - - {x: 26, y: -336}
+      - {x: 34, y: -338}
+      - {x: 47, y: -338}
+      - {x: 50, y: -335}
+      - {x: 49, y: -335}
+      - {x: 50, y: -336}
+      - {x: 48, y: -339}
+      - {x: 46, y: -338}
+      - {x: 43, y: -338}
+      - {x: 41, y: -336}
+      - {x: 37, y: -336}
+      - {x: 32, y: -341}
+      - {x: 31, y: -340}
+    - - {x: 95, y: -338}
+      - {x: 91, y: -334}
+      - {x: 84, y: -334}
+      - {x: 81, y: -337}
+      - {x: 81, y: -340}
+      - {x: 82, y: -338}
+      - {x: 79, y: -335}
+      - {x: 81, y: -333}
+      - {x: 80, y: -333}
+      - {x: 83, y: -336}
+      - {x: 95, y: -336}
+      - {x: 96, y: -335}
+      - {x: 94, y: -337}
+      - {x: 95, y: -341}
+    - - {x: -3, y: -337}
+      - {x: -3, y: -338}
+      - {x: 0, y: -335}
+      - {x: 0, y: -331}
+      - {x: 5, y: -336}
+      - {x: 1, y: -340}
+      - {x: 0, y: -339}
+    - - {x: 60, y: -336}
+      - {x: 59, y: -337}
+      - {x: 61, y: -338}
+      - {x: 65, y: -334}
+      - {x: 68, y: -337}
+      - {x: 65, y: -340}
+      - {x: 64, y: -339}
+    - - {x: 109, y: -337}
+      - {x: 110, y: -338}
+      - {x: 113, y: -335}
+      - {x: 113, y: -322}
+      - {x: 112, y: -320}
+      - {x: 111, y: -321}
+      - {x: 111, y: -334}
+      - {x: 114, y: -337}
+      - {x: 112, y: -340}
+    - - {x: -80, y: -336}
+      - {x: -78, y: -338}
+      - {x: -77, y: -337}
+      - {x: -79, y: -339}
+      - {x: -78, y: -339}
+    - - {x: 13, y: -336}
+      - {x: 16, y: -333}
+      - {x: 15, y: -333}
+      - {x: 19, y: -337}
+      - {x: 19, y: -336}
+      - {x: 16, y: -339}
+    - - {x: -112, y: -336}
+      - {x: -111, y: -335}
+      - {x: -111, y: -336}
+      - {x: -112, y: -337}
+    - - {x: -95, y: -335}
+      - {x: -95, y: -334}
+      - {x: -98, y: -337}
+      - {x: -97, y: -337}
+    - - {x: 94, y: -322}
+      - {x: 89, y: -322}
+      - {x: 87, y: -320}
+      - {x: 82, y: -320}
+      - {x: 80, y: -322}
+      - {x: 79, y: -321}
+      - {x: 80, y: -320}
+      - {x: 82, y: -322}
+      - {x: 89, y: -322}
+      - {x: 92, y: -319}
+      - {x: 92, y: -317}
+      - {x: 90, y: -315}
+      - {x: 90, y: -312}
+      - {x: 94, y: -312}
+      - {x: 96, y: -310}
+      - {x: 95, y: -314}
+      - {x: 100, y: -319}
+      - {x: 101, y: -319}
+      - {x: 101, y: -318}
+      - {x: 98, y: -318}
+      - {x: 95, y: -321}
+      - {x: 96, y: -324}
+      - {x: 96, y: -323}
+    - - {x: -116, y: -320}
+      - {x: -120, y: -320}
+      - {x: -117, y: -322}
+      - {x: -111, y: -322}
+      - {x: -108, y: -319}
+      - {x: -109, y: -316}
+      - {x: -110, y: -319}
+      - {x: -114, y: -323}
+      - {x: -113, y: -323}
+      - {x: -113, y: -322}
+    - - {x: -49, y: -321}
+      - {x: -47, y: -319}
+      - {x: -47, y: -317}
+      - {x: -49, y: -313}
+      - {x: -47, y: -313}
+      - {x: -49, y: -317}
+      - {x: -49, y: -319}
+      - {x: -47, y: -321}
+      - {x: -48, y: -322}
+      - {x: -48, y: -321}
+    - - {x: -35, y: -318}
+      - {x: -37, y: -318}
+      - {x: -38, y: -315}
+      - {x: -37, y: -314}
+      - {x: -37, y: -312}
+      - {x: -40, y: -309}
+      - {x: -41, y: -309}
+      - {x: -38, y: -311}
+      - {x: -36, y: -311}
+      - {x: -31, y: -306}
+      - {x: -32, y: -304}
+      - {x: -33, y: -305}
+      - {x: -28, y: -310}
+      - {x: -27, y: -310}
+      - {x: -27, y: -316}
+      - {x: -28, y: -317}
+      - {x: -28, y: -319}
+      - {x: -26, y: -321}
+      - {x: -30, y: -321}
+      - {x: -31, y: -322}
+      - {x: -31, y: -321}
+    - - {x: 16, y: -320}
+      - {x: 18, y: -321}
+      - {x: 20, y: -320}
+      - {x: 17, y: -322}
+      - {x: 18, y: -322}
+    - - {x: -2, y: -319}
+      - {x: -7, y: -319}
+      - {x: -7, y: -317}
+      - {x: -4, y: -319}
+      - {x: 2, y: -313}
+      - {x: 2, y: -311}
+      - {x: -1, y: -308}
+      - {x: -1, y: -306}
+      - {x: -7, y: -298}
+      - {x: -6, y: -297}
+      - {x: -6, y: -295}
+      - {x: -5, y: -292}
+      - {x: -5, y: -291}
+      - {x: -8, y: -288}
+      - {x: -11, y: -287}
+      - {x: -15, y: -287}
+      - {x: -20, y: -292}
+      - {x: -22, y: -292}
+      - {x: -25, y: -295}
+      - {x: -24, y: -297}
+      - {x: -23, y: -289}
+      - {x: -26, y: -286}
+      - {x: -28, y: -286}
+      - {x: -32, y: -289}
+      - {x: -33, y: -292}
+      - {x: -32, y: -299}
+      - {x: -31, y: -292}
+      - {x: -37, y: -286}
+      - {x: -39, y: -286}
+      - {x: -42, y: -289}
+      - {x: -41, y: -297}
+      - {x: -40, y: -291}
+      - {x: -42, y: -289}
+      - {x: -39, y: -285}
+      - {x: -29, y: -285}
+      - {x: -24, y: -290}
+      - {x: -20, y: -290}
+      - {x: -18, y: -288}
+      - {x: -11, y: -288}
+      - {x: -10, y: -289}
+      - {x: -3, y: -289}
+      - {x: 2, y: -284}
+      - {x: 2, y: -280}
+      - {x: 0, y: -278}
+      - {x: 2, y: -276}
+      - {x: 2, y: -270}
+      - {x: 1, y: -267}
+      - {x: 1, y: -263}
+      - {x: -4, y: -258}
+      - {x: -10, y: -257}
+      - {x: -5, y: -257}
+      - {x: -1, y: -253}
+      - {x: -1, y: -251}
+      - {x: -5, y: -247}
+      - {x: -10, y: -247}
+      - {x: -9, y: -246}
+      - {x: -7, y: -247}
+      - {x: -2, y: -245}
+      - {x: -1, y: -244}
+      - {x: -1, y: -248}
+      - {x: 4, y: -253}
+      - {x: 9, y: -253}
+      - {x: 11, y: -256}
+      - {x: 6, y: -260}
+      - {x: 3, y: -263}
+      - {x: 3, y: -265}
+      - {x: 5, y: -267}
+      - {x: 1, y: -273}
+      - {x: 1, y: -278}
+      - {x: 5, y: -282}
+      - {x: 5, y: -286}
+      - {x: 8, y: -289}
+      - {x: 8, y: -290}
+      - {x: 6, y: -294}
+      - {x: 0, y: -299}
+      - {x: -1, y: -302}
+      - {x: -1, y: -310}
+      - {x: 5, y: -316}
+      - {x: 6, y: -318}
+      - {x: 2, y: -318}
+      - {x: -1, y: -321}
+      - {x: 0, y: -321}
+      - {x: 0, y: -320}
+    - - {x: 62, y: -320}
+      - {x: 66, y: -316}
+      - {x: 66, y: -314}
+      - {x: 65, y: -313}
+      - {x: 65, y: -310}
+      - {x: 62, y: -307}
+      - {x: 65, y: -302}
+      - {x: 62, y: -304}
+      - {x: 62, y: -308}
+      - {x: 66, y: -312}
+      - {x: 70, y: -312}
+      - {x: 70, y: -315}
+      - {x: 68, y: -317}
+      - {x: 68, y: -318}
+      - {x: 67, y: -318}
+      - {x: 64, y: -321}
+      - {x: 63, y: -320}
+    - - {x: 47, y: -319}
+      - {x: 48, y: -318}
+      - {x: 49, y: -319}
+      - {x: 49, y: -320}
+      - {x: 48, y: -319}
+    - - {x: 97, y: -294}
+      - {x: 92, y: -289}
+      - {x: 88, y: -288}
+      - {x: 87, y: -287}
+      - {x: 85, y: -287}
+      - {x: 88, y: -283}
+      - {x: 89, y: -284}
+      - {x: 92, y: -281}
+      - {x: 92, y: -279}
+      - {x: 94, y: -277}
+      - {x: 94, y: -267}
+      - {x: 94, y: -269}
+      - {x: 97, y: -273}
+      - {x: 94, y: -276}
+      - {x: 94, y: -280}
+      - {x: 99, y: -285}
+      - {x: 101, y: -285}
+      - {x: 104, y: -288}
+      - {x: 101, y: -288}
+      - {x: 96, y: -293}
+      - {x: 96, y: -295}
+      - {x: 97, y: -295}
+    - - {x: -91, y: -264}
+      - {x: -93, y: -268}
+      - {x: -93, y: -284}
+      - {x: -91, y: -285}
+      - {x: -69, y: -285}
+      - {x: -67, y: -282}
+      - {x: -67, y: -266}
+      - {x: -74, y: -264}
+    - - {x: -50, y: -264}
+      - {x: -51, y: -263}
+      - {x: -55, y: -267}
+      - {x: -57, y: -267}
+      - {x: -59, y: -269}
+      - {x: -59, y: -270}
+      - {x: -58, y: -270}
+    - - {x: 84, y: -253}
+      - {x: 78, y: -253}
+      - {x: 76, y: -255}
+      - {x: 82, y: -255}
+      - {x: 83, y: -254}
+      - {x: 82, y: -254}
+      - {x: 86, y: -258}
+      - {x: 88, y: -258}
+      - {x: 88, y: -257}
+    - - {x: 92, y: -255}
+      - {x: 93, y: -254}
+      - {x: 93, y: -251}
+      - {x: 95, y: -249}
+      - {x: 95, y: -244}
+      - {x: 95, y: -253}
+      - {x: 98, y: -256}
+      - {x: 101, y: -255}
+      - {x: 100, y: -254}
+      - {x: 97, y: -257}
+      - {x: 96, y: -256}
+    - - {x: -128, y: -223}
+      - {x: -128, y: -253}
+      - {x: -117, y: -257}
+      - {x: -101, y: -257}
+      - {x: -95, y: -252}
+      - {x: -95, y: -223}
+    - - {x: -56, y: -245}
+      - {x: -58, y: -247}
+      - {x: -58, y: -255}
+      - {x: -41, y: -255}
+      - {x: -39, y: -251}
+      - {x: -39, y: -247}
+      - {x: -42, y: -245}
+    - - {x: -90, y: -227}
+      - {x: -90, y: -253}
+      - {x: -70, y: -253}
+      - {x: -70, y: -228}
+      - {x: -72, y: -227}
+    - - {x: -44, y: -224}
+      - {x: -55, y: -224}
+      - {x: -60, y: -225}
+      - {x: -62, y: -228}
+      - {x: -62, y: -238}
+      - {x: -60, y: -243}
+      - {x: -37, y: -243}
+      - {x: -35, y: -237}
+      - {x: -35, y: -230}
+      - {x: -37, y: -226}
+    - - {x: 96, y: -232}
+      - {x: 95, y: -229}
+      - {x: 90, y: -225}
+      - {x: 89, y: -225}
+      - {x: 96, y: -219}
+      - {x: 97, y: -216}
+      - {x: 97, y: -211}
+      - {x: 96, y: -208}
+      - {x: 93, y: -205}
+      - {x: 85, y: -202}
+      - {x: 86, y: -201}
+      - {x: 86, y: -197}
+      - {x: 82, y: -193}
+      - {x: 84, y: -194}
+      - {x: 87, y: -193}
+      - {x: 90, y: -189}
+      - {x: 90, y: -186}
+      - {x: 89, y: -184}
+      - {x: 95, y: -178}
+      - {x: 97, y: -173}
+      - {x: 96, y: -181}
+      - {x: 100, y: -185}
+      - {x: 99, y: -186}
+      - {x: 99, y: -188}
+      - {x: 103, y: -193}
+      - {x: 106, y: -194}
+      - {x: 118, y: -194}
+      - {x: 119, y: -193}
+      - {x: 113, y: -193}
+      - {x: 111, y: -195}
+      - {x: 108, y: -195}
+      - {x: 103, y: -190}
+      - {x: 101, y: -190}
+      - {x: 96, y: -196}
+      - {x: 96, y: -198}
+      - {x: 94, y: -202}
+      - {x: 94, y: -203}
+      - {x: 95, y: -204}
+      - {x: 94, y: -207}
+      - {x: 96, y: -209}
+      - {x: 95, y: -211}
+      - {x: 96, y: -214}
+      - {x: 100, y: -217}
+      - {x: 100, y: -216}
+      - {x: 95, y: -221}
+      - {x: 95, y: -223}
+      - {x: 98, y: -226}
+      - {x: 100, y: -226}
+      - {x: 96, y: -231}
+      - {x: 95, y: -235}
+      - {x: 96, y: -235}
+    - - {x: -118, y: -207}
+      - {x: -128, y: -216}
+      - {x: -128, y: -220}
+      - {x: -126, y: -224}
+      - {x: -116, y: -224}
+      - {x: -107, y: -222}
+      - {x: -104, y: -219}
+      - {x: -104, y: -207}
+    - - {x: -53, y: -198}
+      - {x: -64, y: -203}
+      - {x: -64, y: -224}
+      - {x: -49, y: -224}
+      - {x: -33, y: -220}
+      - {x: -31, y: -211}
+      - {x: -31, y: -203}
+      - {x: -35, y: -198}
+    - - {x: 50, y: -223}
+      - {x: 55, y: -223}
+      - {x: 62, y: -215}
+      - {x: 62, y: -202}
+      - {x: 56, y: -193}
+      - {x: 39, y: -193}
+      - {x: 34, y: -194}
+      - {x: 34, y: -217}
+      - {x: 42, y: -223}
+      - {x: 46, y: -223}
+      - {x: 48, y: -221}
+      - {x: 48, y: -219}
+      - {x: 48, y: -221}
+    - - {x: -94, y: -194}
+      - {x: -94, y: -220}
+      - {x: -92, y: -222}
+      - {x: -75, y: -222}
+      - {x: -66, y: -214}
+      - {x: -66, y: -198}
+      - {x: -68, y: -196}
+      - {x: -71, y: -194}
+    - - {x: -9, y: -196}
+      - {x: -29, y: -196}
+      - {x: -31, y: -203}
+      - {x: -31, y: -221}
+      - {x: -30, y: -222}
+      - {x: -2, y: -222}
+      - {x: -1, y: -220}
+      - {x: -1, y: -203}
+    - - {x: -128, y: -181}
+      - {x: -120, y: -193}
+      - {x: -101, y: -193}
+      - {x: -95, y: -190}
+      - {x: -95, y: -160}
+      - {x: -126, y: -160}
+      - {x: -128, y: -164}
+    - - {x: -6, y: -160}
+      - {x: -22, y: -160}
+      - {x: -29, y: -168}
+      - {x: -29, y: -189}
+      - {x: -19, y: -193}
+      - {x: -8, y: -193}
+      - {x: -1, y: -177}
+      - {x: -1, y: -167}
+      - {x: -2, y: -164}
+    - - {x: -34, y: -168}
+      - {x: -43, y: -160}
+      - {x: -61, y: -160}
+      - {x: -63, y: -163}
+      - {x: -63, y: -187}
+      - {x: -61, y: -191}
+      - {x: -57, y: -192}
+      - {x: -39, y: -192}
+      - {x: -37, y: -190}
+      - {x: -34, y: -184}
+    - - {x: -92, y: -162}
+      - {x: -95, y: -163}
+      - {x: -95, y: -190}
+      - {x: -94, y: -191}
+      - {x: -68, y: -191}
+      - {x: -64, y: -189}
+      - {x: -64, y: -171}
+      - {x: -79, y: -162}
+    - - {x: -98, y: -139}
+      - {x: -100, y: -136}
+      - {x: -104, y: -132}
+      - {x: -109, y: -130}
+      - {x: -115, y: -130}
+      - {x: -120, y: -132}
+      - {x: -125, y: -136}
+      - {x: -126, y: -141}
+      - {x: -126, y: -149}
+      - {x: -124, y: -152}
+      - {x: -120, y: -156}
+      - {x: -115, y: -158}
+      - {x: -109, y: -158}
+      - {x: -104, y: -156}
+      - {x: -99, y: -152}
+      - {x: -98, y: -147}
+    - - {x: -66, y: -139}
+      - {x: -68, y: -136}
+      - {x: -72, y: -132}
+      - {x: -77, y: -130}
+      - {x: -83, y: -130}
+      - {x: -88, y: -132}
+      - {x: -93, y: -136}
+      - {x: -94, y: -141}
+      - {x: -94, y: -149}
+      - {x: -92, y: -152}
+      - {x: -88, y: -156}
+      - {x: -83, y: -158}
+      - {x: -77, y: -158}
+      - {x: -72, y: -156}
+      - {x: -67, y: -152}
+      - {x: -66, y: -147}
+    - - {x: -51, y: -130}
+      - {x: -62, y: -133}
+      - {x: -62, y: -155}
+      - {x: -51, y: -158}
+      - {x: -45, y: -158}
+      - {x: -34, y: -155}
+      - {x: -34, y: -133}
+      - {x: -45, y: -130}
+    - - {x: -2, y: -139}
+      - {x: -4, y: -136}
+      - {x: -8, y: -132}
+      - {x: -13, y: -130}
+      - {x: -19, y: -130}
+      - {x: -30, y: -133}
+      - {x: -30, y: -155}
+      - {x: -19, y: -158}
+      - {x: -13, y: -158}
+      - {x: -8, y: -156}
+      - {x: -3, y: -152}
+      - {x: -2, y: -147}
+    - - {x: 24, y: -131}
+      - {x: 19, y: -130}
+      - {x: 10, y: -130}
+      - {x: 3, y: -135}
+      - {x: 2, y: -139}
+      - {x: 2, y: -150}
+      - {x: 8, y: -157}
+      - {x: 13, y: -158}
+      - {x: 22, y: -158}
+      - {x: 29, y: -153}
+      - {x: 30, y: -149}
+      - {x: 30, y: -138}
+    - - {x: 56, y: -131}
+      - {x: 51, y: -130}
+      - {x: 42, y: -130}
+      - {x: 35, y: -135}
+      - {x: 34, y: -139}
+      - {x: 34, y: -150}
+      - {x: 40, y: -157}
+      - {x: 45, y: -158}
+      - {x: 54, y: -158}
+      - {x: 61, y: -153}
+      - {x: 62, y: -149}
+      - {x: 62, y: -138}
+    - - {x: 68, y: -130}
+      - {x: 67, y: -131}
+      - {x: 67, y: -140}
+      - {x: 70, y: -156}
+      - {x: 73, y: -158}
+      - {x: 82, y: -158}
+      - {x: 91, y: -152}
+      - {x: 92, y: -133}
+      - {x: 89, y: -130}
+    - - {x: 120, y: -132}
+      - {x: 104, y: -132}
+      - {x: 101, y: -133}
+      - {x: 101, y: -155}
+      - {x: 107, y: -158}
+      - {x: 118, y: -158}
+      - {x: 123, y: -150}
+      - {x: 123, y: -135}
+    - - {x: -100, y: -98}
+      - {x: -124, y: -98}
+      - {x: -126, y: -100}
+      - {x: -126, y: -125}
+      - {x: -123, y: -126}
+      - {x: -98, y: -126}
+      - {x: -98, y: -103}
+    - - {x: -62, y: -119}
+      - {x: -55, y: -126}
+      - {x: -34, y: -126}
+      - {x: -34, y: -106}
+      - {x: -36, y: -98}
+      - {x: -47, y: -98}
+      - {x: -62, y: -107}
+    - - {x: 38, y: -98}
+      - {x: 36, y: -99}
+      - {x: 34, y: -109}
+      - {x: 34, y: -124}
+      - {x: 37, y: -126}
+      - {x: 54, y: -126}
+      - {x: 62, y: -124}
+      - {x: 62, y: -103}
+      - {x: 54, y: -98}
+    - - {x: 74, y: -98}
+      - {x: 66, y: -105}
+      - {x: 66, y: -120}
+      - {x: 75, y: -126}
+      - {x: 90, y: -126}
+      - {x: 94, y: -124}
+      - {x: 94, y: -106}
+      - {x: 85, y: -98}
+    - - {x: 120, y: -99}
+      - {x: 115, y: -98}
+      - {x: 106, y: -98}
+      - {x: 99, y: -103}
+      - {x: 98, y: -107}
+      - {x: 98, y: -118}
+      - {x: 104, y: -125}
+      - {x: 109, y: -126}
+      - {x: 118, y: -126}
+      - {x: 125, y: -121}
+      - {x: 126, y: -117}
+      - {x: 126, y: -106}
+    - - {x: -25, y: -99}
+      - {x: -27, y: -108}
+      - {x: -27, y: -125}
+      - {x: -7, y: -125}
+      - {x: -5, y: -124}
+      - {x: -5, y: -100}
+      - {x: -9, y: -99}
+    - - {x: 4, y: -98}
+      - {x: 2, y: -104}
+      - {x: 2, y: -122}
+      - {x: 4, y: -124}
+      - {x: 30, y: -124}
+      - {x: 30, y: -101}
+      - {x: 27, y: -98}
+    - - {x: -89, y: -101}
+      - {x: -89, y: -121}
+      - {x: -87, y: -122}
+      - {x: -71, y: -122}
+      - {x: -70, y: -118}
+      - {x: -70, y: -102}
+      - {x: -72, y: -101}
+    - - {x: -113, y: -113}
+      - {x: -111, y: -111}
+      - {x: -112, y: -110}
+      - {x: -113, y: -111}
+      - {x: -111, y: -113}
+      - {x: -112, y: -114}
+      - {x: -112, y: -113}
+    - - {x: -92, y: -66}
+      - {x: -94, y: -69}
+      - {x: -94, y: -94}
+      - {x: -68, y: -94}
+      - {x: -66, y: -93}
+      - {x: -66, y: -71}
+      - {x: -70, y: -66}
+    - - {x: -42, y: -66}
+      - {x: -52, y: -66}
+      - {x: -62, y: -77}
+      - {x: -62, y: -86}
+      - {x: -54, y: -94}
+      - {x: -36, y: -94}
+      - {x: -34, y: -89}
+      - {x: -34, y: -75}
+      - {x: -36, y: -69}
+    - - {x: 100, y: -66}
+      - {x: 97, y: -68}
+      - {x: 97, y: -81}
+      - {x: 98, y: -92}
+      - {x: 106, y: -94}
+      - {x: 125, y: -94}
+      - {x: 125, y: -66}
+    - - {x: -116, y: -69}
+      - {x: -122, y: -71}
+      - {x: -125, y: -80}
+      - {x: -125, y: -87}
+      - {x: -122, y: -90}
+      - {x: -112, y: -93}
+      - {x: -101, y: -93}
+      - {x: -101, y: -82}
+      - {x: -107, y: -69}
+    - - {x: 88, y: -67}
+      - {x: 71, y: -67}
+      - {x: 68, y: -70}
+      - {x: 68, y: -75}
+      - {x: 73, y: -87}
+      - {x: 78, y: -93}
+      - {x: 82, y: -93}
+      - {x: 88, y: -88}
+      - {x: 92, y: -76}
+      - {x: 92, y: -70}
+    - - {x: 36, y: -77}
+      - {x: 37, y: -86}
+      - {x: 41, y: -91}
+      - {x: 54, y: -91}
+      - {x: 60, y: -89}
+      - {x: 60, y: -67}
+      - {x: 38, y: -67}
+      - {x: 36, y: -74}
+    - - {x: 13, y: -69}
+      - {x: 7, y: -73}
+      - {x: 7, y: -88}
+      - {x: 11, y: -90}
+      - {x: 25, y: -90}
+      - {x: 25, y: -73}
+      - {x: 24, y: -69}
+    - - {x: -20, y: -68}
+      - {x: -26, y: -74}
+      - {x: -26, y: -83}
+      - {x: -20, y: -89}
+      - {x: -14, y: -89}
+      - {x: -8, y: -83}
+      - {x: -8, y: -74}
+      - {x: -14, y: -68}
+    - - {x: 45, y: -82}
+      - {x: 47, y: -82}
+      - {x: 48, y: -81}
+      - {x: 49, y: -82}
+      - {x: 51, y: -82}
+      - {x: 49, y: -82}
+      - {x: 48, y: -83}
+      - {x: 47, y: -82}
+    - - {x: -83, y: -34}
+      - {x: -88, y: -34}
+      - {x: -94, y: -38}
+      - {x: -94, y: -48}
+      - {x: -72, y: -62}
+      - {x: -66, y: -62}
+      - {x: -66, y: -54}
+      - {x: -78, y: -38}
+    - - {x: -28, y: -34}
+      - {x: -30, y: -35}
+      - {x: -30, y: -40}
+      - {x: -27, y: -47}
+      - {x: -8, y: -62}
+      - {x: -5, y: -62}
+      - {x: -2, y: -59}
+      - {x: -2, y: -56}
+      - {x: -21, y: -34}
+    - - {x: 2, y: -45}
+      - {x: 8, y: -51}
+      - {x: 24, y: -62}
+      - {x: 27, y: -62}
+      - {x: 30, y: -61}
+      - {x: 30, y: -53}
+      - {x: 23, y: -36}
+      - {x: 15, y: -34}
+      - {x: 3, y: -34}
+      - {x: 2, y: -35}
+    - - {x: 34, y: -48}
+      - {x: 35, y: -50}
+      - {x: 56, y: -62}
+      - {x: 62, y: -62}
+      - {x: 62, y: -50}
+      - {x: 54, y: -34}
+      - {x: 42, y: -34}
+      - {x: 34, y: -42}
+    - - {x: 68, y: -34}
+      - {x: 66, y: -35}
+      - {x: 66, y: -42}
+      - {x: 72, y: -52}
+      - {x: 89, y: -62}
+      - {x: 93, y: -62}
+      - {x: 94, y: -59}
+      - {x: 94, y: -54}
+      - {x: 77, y: -34}
+    - - {x: 110, y: -34}
+      - {x: 103, y: -34}
+      - {x: 98, y: -38}
+      - {x: 98, y: -49}
+      - {x: 117, y: -62}
+      - {x: 124, y: -62}
+      - {x: 126, y: -60}
+      - {x: 126, y: -57}
+      - {x: 118, y: -42}
+    - - {x: -58, y: -35}
+      - {x: -61, y: -38}
+      - {x: -61, y: -40}
+      - {x: -40, y: -61}
+      - {x: -38, y: -61}
+      - {x: -35, y: -58}
+      - {x: -35, y: -56}
+      - {x: -56, y: -35}
+    - - {x: -121, y: -36}
+      - {x: -124, y: -37}
+      - {x: -124, y: -46}
+      - {x: -123, y: -48}
+      - {x: -105, y: -60}
+      - {x: -101, y: -60}
+      - {x: -100, y: -58}
+      - {x: -100, y: -52}
+      - {x: -115, y: -36}
+    - - {x: -91, y: -2}
+      - {x: -94, y: -9}
+      - {x: -94, y: -25}
+      - {x: -88, y: -30}
+      - {x: -69, y: -30}
+      - {x: -66, y: -23}
+      - {x: -66, y: -7}
+      - {x: -72, y: -2}
+    - - {x: -55, y: -2}
+      - {x: -62, y: -7}
+      - {x: -62, y: -25}
+      - {x: -60, y: -30}
+      - {x: -38, y: -30}
+      - {x: -34, y: -25}
+      - {x: -34, y: -9}
+      - {x: -36, y: -2}
+    - - {x: 5, y: -2}
+      - {x: 5, y: -18}
+      - {x: 12, y: -30}
+      - {x: 18, y: -30}
+      - {x: 23, y: -27}
+      - {x: 27, y: -19}
+      - {x: 27, y: -2}
+    - - {x: 37, y: -2}
+      - {x: 37, y: -16}
+      - {x: 38, y: -24}
+      - {x: 44, y: -30}
+      - {x: 50, y: -30}
+      - {x: 59, y: -25}
+      - {x: 59, y: -2}
+    - - {x: 68, y: -2}
+      - {x: 68, y: -24}
+      - {x: 77, y: -30}
+      - {x: 86, y: -30}
+      - {x: 92, y: -24}
+      - {x: 92, y: -2}
+    - - {x: 100, y: -2}
+      - {x: 100, y: -27}
+      - {x: 108, y: -30}
+      - {x: 118, y: -30}
+      - {x: 123, y: -24}
+      - {x: 124, y: -18}
+      - {x: 124, y: -2}
+    - - {x: -27, y: -3}
+      - {x: -27, y: -20}
+      - {x: -17, y: -29}
+      - {x: -15, y: -29}
+      - {x: -5, y: -20}
+      - {x: -5, y: -3}
+    - - {x: -115, y: -4}
+      - {x: -124, y: -5}
+      - {x: -124, y: -27}
+      - {x: -115, y: -28}
+      - {x: -105, y: -28}
+      - {x: -100, y: -27}
+      - {x: -100, y: -5}
+      - {x: -109, y: -4}
+    - - {x: -43, y: 30}
+      - {x: -51, y: 30}
+      - {x: -59, y: 26}
+      - {x: -59, y: 2}
+      - {x: -37, y: 2}
+      - {x: -37, y: 23}
+    - - {x: 34, y: 28}
+      - {x: 34, y: 12}
+      - {x: 35, y: 6}
+      - {x: 38, y: 2}
+      - {x: 55, y: 2}
+      - {x: 62, y: 8}
+      - {x: 62, y: 28}
+    - - {x: 66, y: 30}
+      - {x: 66, y: 2}
+      - {x: 91, y: 2}
+      - {x: 92, y: 3}
+      - {x: 94, y: 17}
+      - {x: 94, y: 30}
+    - - {x: 99, y: 30}
+      - {x: 99, y: 20}
+      - {x: 101, y: 7}
+      - {x: 104, y: 2}
+      - {x: 122, y: 2}
+      - {x: 125, y: 15}
+      - {x: 125, y: 30}
+    - - {x: -21, y: 28}
+      - {x: -26, y: 21}
+      - {x: -26, y: 5}
+      - {x: -22, y: 3}
+      - {x: -9, y: 3}
+      - {x: -6, y: 6}
+      - {x: -6, y: 21}
+      - {x: -12, y: 28}
+    - - {x: 5, y: 28}
+      - {x: 5, y: 3}
+      - {x: 23, y: 3}
+      - {x: 27, y: 4}
+      - {x: 27, y: 28}
+    - - {x: -119, y: 27}
+      - {x: -122, y: 22}
+      - {x: -122, y: 6}
+      - {x: -118, y: 5}
+      - {x: -104, y: 5}
+      - {x: -103, y: 9}
+      - {x: -103, y: 23}
+      - {x: -109, y: 27}
+    - - {x: -90, y: 8}
+      - {x: -88, y: 5}
+      - {x: -73, y: 5}
+      - {x: -70, y: 6}
+      - {x: -70, y: 22}
+      - {x: -72, y: 27}
+      - {x: -84, y: 27}
+      - {x: -90, y: 22}
+    - - {x: 91, y: 61}
+      - {x: 72, y: 61}
+      - {x: 66, y: 60}
+      - {x: 66, y: 34}
+      - {x: 94, y: 34}
+      - {x: 94, y: 48}
+      - {x: 93, y: 57}
+    - - {x: 104, y: 62}
+      - {x: 99, y: 57}
+      - {x: 98, y: 53}
+      - {x: 98, y: 34}
+      - {x: 126, y: 34}
+      - {x: 126, y: 57}
+      - {x: 123, y: 62}
+    - - {x: 6, y: 61}
+      - {x: 5, y: 60}
+      - {x: 5, y: 38}
+      - {x: 10, y: 35}
+      - {x: 24, y: 35}
+      - {x: 27, y: 41}
+      - {x: 27, y: 61}
+    - - {x: -90, y: 61}
+      - {x: -90, y: 37}
+      - {x: -88, y: 36}
+      - {x: -70, y: 36}
+      - {x: -70, y: 61}
+    - - {x: 37, y: 61}
+      - {x: 34, y: 54}
+      - {x: 34, y: 37}
+      - {x: 36, y: 36}
+      - {x: 62, y: 36}
+      - {x: 62, y: 59}
+      - {x: 55, y: 61}
+    - - {x: -39, y: 60}
+      - {x: -58, y: 60}
+      - {x: -60, y: 59}
+      - {x: -60, y: 38}
+      - {x: -54, y: 37}
+      - {x: -41, y: 37}
+      - {x: -39, y: 39}
+      - {x: -37, y: 51}
+      - {x: -37, y: 59}
+    - - {x: -124, y: 59}
+      - {x: -124, y: 46}
+      - {x: -120, y: 38}
+      - {x: -101, y: 38}
+      - {x: -100, y: 43}
+      - {x: -100, y: 59}
+    - - {x: -10, y: 60}
+      - {x: -27, y: 60}
+      - {x: -27, y: 39}
+      - {x: -23, y: 38}
+      - {x: -9, y: 38}
+      - {x: -7, y: 44}
+      - {x: -6, y: 49}
+      - {x: -6, y: 58}
+    - - {x: -35, y: 92}
+      - {x: -40, y: 94}
+      - {x: -55, y: 94}
+      - {x: -62, y: 86}
+      - {x: -62, y: 73}
+      - {x: -59, y: 66}
+      - {x: -45, y: 66}
+      - {x: -42, y: 68}
+      - {x: -35, y: 74}
+    - - {x: -10, y: 78}
+      - {x: -4, y: 85}
+      - {x: -3, y: 90}
+      - {x: -3, y: 92}
+      - {x: -28, y: 92}
+      - {x: -28, y: 66}
+      - {x: -4, y: 66}
+      - {x: -3, y: 69}
+      - {x: -3, y: 71}
+    - - {x: 3, y: 94}
+      - {x: 2, y: 92}
+      - {x: 2, y: 87}
+      - {x: 6, y: 84}
+      - {x: 2, y: 78}
+      - {x: 2, y: 66}
+      - {x: 30, y: 66}
+      - {x: 30, y: 94}
+    - - {x: 34, y: 94}
+      - {x: 34, y: 66}
+      - {x: 62, y: 66}
+      - {x: 62, y: 94}
+    - - {x: 88, y: 91}
+      - {x: 82, y: 93}
+      - {x: 70, y: 93}
+      - {x: 67, y: 91}
+      - {x: 67, y: 85}
+      - {x: 72, y: 69}
+      - {x: 78, y: 66}
+      - {x: 92, y: 66}
+      - {x: 93, y: 68}
+      - {x: 93, y: 78}
+    - - {x: 98, y: 93}
+      - {x: 98, y: 68}
+      - {x: 103, y: 66}
+      - {x: 125, y: 66}
+      - {x: 125, y: 88}
+      - {x: 121, y: 93}
+    - - {x: -123, y: 92}
+      - {x: -126, y: 86}
+      - {x: -126, y: 73}
+      - {x: -119, y: 68}
+      - {x: -102, y: 68}
+      - {x: -98, y: 72}
+      - {x: -98, y: 86}
+      - {x: -110, y: 92}
+    - - {x: -77, y: 91}
+      - {x: -89, y: 91}
+      - {x: -91, y: 88}
+      - {x: -91, y: 80}
+      - {x: -90, y: 72}
+      - {x: -85, y: 68}
+      - {x: -74, y: 68}
+      - {x: -70, y: 72}
+      - {x: -70, y: 83}
+      - {x: -72, y: 90}
+    - - {x: -124, y: 126}
+      - {x: -126, y: 123}
+      - {x: -126, y: 110}
+      - {x: -124, y: 103}
+      - {x: -117, y: 98}
+      - {x: -110, y: 98}
+      - {x: -98, y: 112}
+      - {x: -98, y: 123}
+      - {x: -107, y: 126}
+    - - {x: -76, y: 120}
+      - {x: -84, y: 126}
+      - {x: -87, y: 126}
+      - {x: -94, y: 122}
+      - {x: -94, y: 114}
+      - {x: -82, y: 98}
+      - {x: -73, y: 98}
+      - {x: -66, y: 105}
+      - {x: -66, y: 110}
+    - - {x: -61, y: 126}
+      - {x: -62, y: 124}
+      - {x: -62, y: 104}
+      - {x: -58, y: 99}
+      - {x: -57, y: 98}
+      - {x: -34, y: 98}
+      - {x: -34, y: 122}
+      - {x: -38, y: 126}
+    - - {x: 2, y: 126}
+      - {x: 2, y: 109}
+      - {x: 8, y: 98}
+      - {x: 27, y: 98}
+      - {x: 30, y: 100}
+      - {x: 30, y: 111}
+      - {x: 10, y: 126}
+    - - {x: 34, y: 126}
+      - {x: 34, y: 106}
+      - {x: 41, y: 98}
+      - {x: 59, y: 98}
+      - {x: 62, y: 99}
+      - {x: 62, y: 108}
+      - {x: 41, y: 126}
+    - - {x: -28, y: 125}
+      - {x: -29, y: 122}
+      - {x: -29, y: 114}
+      - {x: -27, y: 108}
+      - {x: -14, y: 99}
+      - {x: -5, y: 99}
+      - {x: -3, y: 102}
+      - {x: -3, y: 104}
+      - {x: -24, y: 125}
+    - - {x: 78, y: 125}
+      - {x: 73, y: 125}
+      - {x: 66, y: 117}
+      - {x: 66, y: 108}
+      - {x: 69, y: 104}
+      - {x: 76, y: 99}
+      - {x: 83, y: 99}
+      - {x: 93, y: 105}
+      - {x: 94, y: 108}
+      - {x: 94, y: 116}
+    - - {x: 111, y: 126}
+      - {x: 103, y: 126}
+      - {x: 98, y: 120}
+      - {x: 98, y: 103}
+      - {x: 105, y: 99}
+      - {x: 117, y: 99}
+      - {x: 125, y: 106}
+      - {x: 126, y: 109}
+      - {x: 126, y: 118}
+    - - {x: -55, y: 112}
+      - {x: -54, y: 110}
+      - {x: -51, y: 110}
+      - {x: -51, y: 109}
+      - {x: -48, y: 107}
+      - {x: -49, y: 109}
+    - - {x: -45, y: 120}
+      - {x: -48, y: 119}
+      - {x: -45, y: 113}
+      - {x: -42, y: 111}
+    - - {x: 42, y: 158}
+      - {x: 34, y: 150}
+      - {x: 34, y: 143}
+      - {x: 37, y: 132}
+      - {x: 43, y: 130}
+      - {x: 59, y: 130}
+      - {x: 62, y: 132}
+      - {x: 62, y: 135}
+      - {x: 57, y: 155}
+      - {x: 49, y: 158}
+    - - {x: 72, y: 158}
+      - {x: 66, y: 147}
+      - {x: 66, y: 142}
+      - {x: 72, y: 135}
+      - {x: 81, y: 130}
+      - {x: 94, y: 130}
+      - {x: 94, y: 158}
+    - - {x: 98, y: 136}
+      - {x: 105, y: 130}
+      - {x: 126, y: 130}
+      - {x: 126, y: 147}
+      - {x: 121, y: 158}
+      - {x: 104, y: 158}
+      - {x: 98, y: 150}
+    - - {x: 24, y: 156}
+      - {x: 14, y: 156}
+      - {x: 4, y: 147}
+      - {x: 4, y: 139}
+      - {x: 8, y: 131}
+      - {x: 28, y: 131}
+      - {x: 29, y: 132}
+      - {x: 29, y: 144}
+      - {x: 26, y: 155}
+    - - {x: -94, y: 142}
+      - {x: -89, y: 138}
+      - {x: -80, y: 132}
+      - {x: -67, y: 132}
+      - {x: -67, y: 144}
+      - {x: -69, y: 155}
+      - {x: -92, y: 155}
+      - {x: -94, y: 151}
+    - - {x: -61, y: 137}
+      - {x: -51, y: 132}
+      - {x: -34, y: 132}
+      - {x: -34, y: 140}
+      - {x: -42, y: 155}
+      - {x: -44, y: 156}
+      - {x: -54, y: 156}
+      - {x: -61, y: 150}
+    - - {x: -13, y: 156}
+      - {x: -28, y: 156}
+      - {x: -30, y: 149}
+      - {x: -30, y: 137}
+      - {x: -23, y: 135}
+      - {x: -8, y: 132}
+      - {x: -4, y: 132}
+      - {x: -2, y: 135}
+      - {x: -2, y: 137}
+      - {x: -9, y: 151}
+    - - {x: -124, y: 140}
+      - {x: -119, y: 133}
+      - {x: -100, y: 133}
+      - {x: -100, y: 147}
+      - {x: -104, y: 153}
+      - {x: -121, y: 153}
+      - {x: -124, y: 148}
+    - - {x: 34, y: 190}
+      - {x: 34, y: 183}
+      - {x: 45, y: 162}
+      - {x: 62, y: 162}
+      - {x: 62, y: 179}
+      - {x: 42, y: 190}
+    - - {x: 67, y: 189}
+      - {x: 67, y: 180}
+      - {x: 78, y: 162}
+      - {x: 94, y: 162}
+      - {x: 94, y: 179}
+      - {x: 79, y: 189}
+    - - {x: 9, y: 189}
+      - {x: 2, y: 189}
+      - {x: 2, y: 182}
+      - {x: 13, y: 167}
+      - {x: 20, y: 163}
+      - {x: 29, y: 163}
+      - {x: 30, y: 165}
+      - {x: 30, y: 177}
+      - {x: 27, y: 179}
+    - - {x: -55, y: 188}
+      - {x: -59, y: 188}
+      - {x: -60, y: 186}
+      - {x: -60, y: 180}
+      - {x: -48, y: 166}
+      - {x: -41, y: 164}
+      - {x: -40, y: 164}
+      - {x: -36, y: 168}
+      - {x: -36, y: 169}
+      - {x: -38, y: 177}
+    - - {x: 100, y: 190}
+      - {x: 98, y: 189}
+      - {x: 98, y: 174}
+      - {x: 113, y: 164}
+      - {x: 125, y: 164}
+      - {x: 125, y: 178}
+      - {x: 109, y: 190}
+    - - {x: -122, y: 187}
+      - {x: -123, y: 185}
+      - {x: -123, y: 176}
+      - {x: -113, y: 165}
+      - {x: -102, y: 165}
+      - {x: -101, y: 166}
+      - {x: -101, y: 176}
+      - {x: -113, y: 187}
+    - - {x: -90, y: 187}
+      - {x: -92, y: 186}
+      - {x: -92, y: 177}
+      - {x: -78, y: 165}
+      - {x: -71, y: 165}
+      - {x: -69, y: 166}
+      - {x: -69, y: 178}
+      - {x: -79, y: 187}
+    - - {x: -29, y: 175}
+      - {x: -17, y: 165}
+      - {x: -6, y: 165}
+      - {x: -5, y: 166}
+      - {x: -5, y: 174}
+      - {x: -6, y: 179}
+      - {x: -19, y: 189}
+      - {x: -29, y: 189}
+    - - {x: -126, y: 222}
+      - {x: -126, y: 197}
+      - {x: -121, y: 194}
+      - {x: -98, y: 194}
+      - {x: -98, y: 220}
+      - {x: -102, y: 222}
+    - - {x: -61, y: 221}
+      - {x: -62, y: 218}
+      - {x: -62, y: 201}
+      - {x: -60, y: 194}
+      - {x: -41, y: 194}
+      - {x: -37, y: 195}
+      - {x: -34, y: 210}
+      - {x: -34, y: 219}
+      - {x: -37, y: 221}
+    - - {x: -93, y: 195}
+      - {x: -69, y: 195}
+      - {x: -67, y: 197}
+      - {x: -67, y: 221}
+      - {x: -89, y: 221}
+      - {x: -93, y: 220}
+    - - {x: 6, y: 222}
+      - {x: 1, y: 217}
+      - {x: 1, y: 196}
+      - {x: 30, y: 196}
+      - {x: 30, y: 219}
+      - {x: 26, y: 222}
+    - - {x: 37, y: 221}
+      - {x: 35, y: 220}
+      - {x: 35, y: 199}
+      - {x: 41, y: 196}
+      - {x: 62, y: 196}
+      - {x: 62, y: 219}
+      - {x: 60, y: 221}
+    - - {x: 69, y: 222}
+      - {x: 69, y: 196}
+      - {x: 91, y: 196}
+      - {x: 91, y: 222}
+    - - {x: 99, y: 222}
+      - {x: 99, y: 196}
+      - {x: 123, y: 196}
+      - {x: 123, y: 222}
+    - - {x: -28, y: 219}
+      - {x: -30, y: 218}
+      - {x: -30, y: 199}
+      - {x: -27, y: 197}
+      - {x: -4, y: 197}
+      - {x: -2, y: 198}
+      - {x: -2, y: 219}
+    - - {x: -82, y: 254}
+      - {x: -86, y: 253}
+      - {x: -87, y: 247}
+      - {x: -87, y: 227}
+      - {x: -83, y: 226}
+      - {x: -74, y: 226}
+      - {x: -73, y: 227}
+      - {x: -73, y: 250}
+      - {x: -76, y: 254}
+    - - {x: -52, y: 254}
+      - {x: -57, y: 245}
+      - {x: -57, y: 234}
+      - {x: -52, y: 226}
+      - {x: -45, y: 226}
+      - {x: -39, y: 229}
+      - {x: -39, y: 246}
+      - {x: -45, y: 254}
+    - - {x: 77, y: 254}
+      - {x: 69, y: 247}
+      - {x: 67, y: 243}
+      - {x: 67, y: 234}
+      - {x: 74, y: 226}
+      - {x: 87, y: 226}
+      - {x: 90, y: 231}
+      - {x: 90, y: 245}
+      - {x: 84, y: 254}
+    - - {x: 118, y: 254}
+      - {x: 103, y: 254}
+      - {x: 100, y: 251}
+      - {x: 98, y: 247}
+      - {x: 98, y: 235}
+      - {x: 105, y: 226}
+      - {x: 119, y: 226}
+      - {x: 124, y: 230}
+      - {x: 126, y: 236}
+      - {x: 126, y: 249}
+    - - {x: -116, y: 253}
+      - {x: -117, y: 252}
+      - {x: -118, y: 249}
+      - {x: -118, y: 230}
+      - {x: -117, y: 227}
+      - {x: -106, y: 227}
+      - {x: -106, y: 251}
+      - {x: -110, y: 253}
+    - - {x: 44, y: 252}
+      - {x: 37, y: 242}
+      - {x: 37, y: 232}
+      - {x: 38, y: 229}
+      - {x: 44, y: 227}
+      - {x: 56, y: 227}
+      - {x: 59, y: 230}
+      - {x: 59, y: 243}
+      - {x: 55, y: 252}
+    - - {x: -20, y: 252}
+      - {x: -25, y: 243}
+      - {x: -25, y: 230}
+      - {x: -24, y: 228}
+      - {x: -10, y: 228}
+      - {x: -7, y: 229}
+      - {x: -7, y: 239}
+      - {x: -9, y: 248}
+      - {x: -14, y: 252}
+    - - {x: 5, y: 230}
+      - {x: 7, y: 228}
+      - {x: 24, y: 228}
+      - {x: 27, y: 229}
+      - {x: 27, y: 245}
+      - {x: 25, y: 250}
+      - {x: 19, y: 253}
+      - {x: 12, y: 253}
+      - {x: 5, y: 237}
+    - - {x: -126, y: 285}
+      - {x: -126, y: 259}
+      - {x: -98, y: 259}
+      - {x: -98, y: 285}
+    - - {x: -94, y: 285}
+      - {x: -94, y: 259}
+      - {x: -66, y: 259}
+      - {x: -66, y: 285}
+    - - {x: 98, y: 283}
+      - {x: 98, y: 270}
+      - {x: 99, y: 265}
+      - {x: 107, y: 263}
+      - {x: 126, y: 263}
+      - {x: 126, y: 279}
+      - {x: 114, y: 283}
+    - - {x: 45, y: 283}
+      - {x: 36, y: 283}
+      - {x: 34, y: 279}
+      - {x: 34, y: 265}
+      - {x: 36, y: 264}
+      - {x: 59, y: 264}
+      - {x: 62, y: 265}
+      - {x: 62, y: 277}
+      - {x: 61, y: 281}
+    - - {x: 66, y: 283}
+      - {x: 66, y: 267}
+      - {x: 67, y: 264}
+      - {x: 94, y: 264}
+      - {x: 94, y: 279}
+      - {x: 92, y: 283}
+    - - {x: -30, y: 284}
+      - {x: -30, y: 270}
+      - {x: -28, y: 265}
+      - {x: -2, y: 265}
+      - {x: -2, y: 284}
+    - - {x: -59, y: 282}
+      - {x: -61, y: 281}
+      - {x: -61, y: 266}
+      - {x: -35, y: 266}
+      - {x: -35, y: 278}
+      - {x: -45, y: 282}
+    - - {x: 4, y: 282}
+      - {x: 4, y: 268}
+      - {x: 5, y: 266}
+      - {x: 30, y: 266}
+      - {x: 30, y: 279}
+      - {x: 13, y: 282}
+    - - {x: -128, y: 416}
+      - {x: -128, y: 286}
+      - {x: 128, y: 286}
+      - {x: 128, y: 416}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
