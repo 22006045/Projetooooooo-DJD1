@@ -9,7 +9,7 @@ public class Character : MonoBehaviour
     [SerializeField]
     protected Faction     faction;
     [SerializeField]
-    protected int         maxHearts = 3;
+    protected int         maxHealth = 100;
     [SerializeField]
     protected Transform   groundCheckObject;
     [SerializeField]
@@ -32,12 +32,12 @@ public class Character : MonoBehaviour
     protected Rigidbody2D       rb;
     protected SpriteRenderer    spriteRenderer;
     protected Animator          animator;
-    protected int               hearts;
+    protected int               health;
     protected float             invulnerabilityTimer = 0;
     protected float             blinkTimer;
     protected float             knockbackTimer;
 
-    public bool isDead => hearts <= 0;
+    public bool isDead => health <= 0;
     protected bool isInvulnerable { get { return (invulnerabilityTimer > 0); } }
     protected bool canHit { get { return (!isInvulnerable) && (!isDead); } }
     protected bool canMove { get { return (knockbackTimer <= 0) && (!isDead); } }
@@ -50,7 +50,7 @@ public class Character : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
 
-        hearts = maxHearts;
+        health = maxHealth;
     }
 
     protected virtual void Update()
@@ -82,9 +82,9 @@ public class Character : MonoBehaviour
     {
         if (!canHit) return;
 
-        hearts = hearts - damage;
+        health = health - damage;
 
-        if (hearts == 0)
+        if (health == 0)
         {
             if (deathPrefab)
             {

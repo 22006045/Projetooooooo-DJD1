@@ -53,7 +53,7 @@ public class Ant : Character
             {
                 Vector2 hitDirection = character.transform.position - transform.position;
 
-                character.DealDamage(1, hitDirection);
+                character.DealDamage(35, hitDirection);
             }
         }
     }

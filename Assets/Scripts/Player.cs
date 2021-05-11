@@ -81,20 +81,4 @@ public class Player : Character
 
         base.Update();
     }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        Character character = collision.GetComponent<Character>();
-        if (character != null)
-        {
-            if (rb.velocity.y < -50.0f)
-            {
-                character.DealDamage(1, Vector2.down);
-
-                rb.velocity = Vector2.up * knockbackVelocity;
-
-                knockbackTimer = hitKnockbackDuration;
-            }
-        }
-    }
 }
