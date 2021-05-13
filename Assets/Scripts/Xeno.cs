@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ant : Character
+public class Xeno : Character
 {
     [SerializeField]
     private float       moveDir = -1.0f;
