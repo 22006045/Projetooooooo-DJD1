@@ -12,10 +12,10 @@ public class Player : Character
     private int         maxJumps = 1;
     [SerializeField]
     private int         jumpGravityStart = 1;
-    [SerializeField]
-    Collider2D          groundCollider;
-    [SerializeField]
-    Collider2D          airCollider;
+    ///[SerializeField]
+   /// Collider2D          groundCollider;
+    ///[SerializeField]
+    ///Collider2D          airCollider;
 
     private float           hAxis;
     private int             nJumps;
@@ -73,11 +73,11 @@ public class Player : Character
         animator.SetFloat("SpeedY", currentVelocity.y);
         animator.SetBool("OnGround", isGround);
 
-        if (!isDead)
-        {
-            groundCollider.enabled = isGround;
-            airCollider.enabled = !isGround;
-        }
+        ///if (!isDead)
+       /// {
+       ///     groundCollider.enabled = isGround;
+       ///     airCollider.enabled = !isGround;
+       /// }
 
         base.Update();
     }
