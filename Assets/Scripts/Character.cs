@@ -156,13 +156,7 @@ public class Character : MonoBehaviour
             Gizmos.DrawSphere(groundCheckObject.position, groundCheckRadius);
         }
 
-        if (rb != null)
-        {
-            Vector3 velocity = rb.velocity;
-
-            Gizmos.color = Color.yellow;
-            Gizmos.DrawLine(transform.position + Vector3.up * 10.0f, transform.position + velocity + Vector3.up * 10.0f);
-        }
+       
     }
 
     public bool IsHostile(Faction faction)
