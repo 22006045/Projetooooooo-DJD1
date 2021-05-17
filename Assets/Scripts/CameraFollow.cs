@@ -32,7 +32,7 @@ public class CameraFollow : MonoBehaviour
 
             Vector3 newPos = currentPos + error * followSpeed;
 
-            currentPos = new Vector3(newPos.x, newPos.y, currentPos.z);
+            currentPos = new Vector3(newPos.x, newPos.y + 3.0f, currentPos.z);
         }
 
         transform.position = currentPos;

@@ -58,14 +58,5 @@ public class Xeno : Character
         }
     }
 
-    protected override void OnDrawGizmosSelected()
-    {
-        base.OnDrawGizmosSelected();
-
-        if (wallCheckObject != null)
-        {
-            Gizmos.color = Color.cyan;
-            Gizmos.DrawSphere(wallCheckObject.position, groundCheckRadius);
-        }
-    }
+   
 }

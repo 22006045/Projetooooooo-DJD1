@@ -23,7 +23,7 @@ public class Character : MonoBehaviour
     [SerializeField]
     protected float       knockbackVelocity = 30.0f;
     [SerializeField]
-    protected float       knockbackDuration = 0.25f;
+    protected float       knockbackDuration = 0.5f;
     [SerializeField]
     protected float       hitKnockbackDuration = 0.2f;
     [SerializeField]
@@ -106,18 +106,16 @@ public class Character : MonoBehaviour
                 Destroy(gameObject, 2.0f);
             }
 
-            animator.SetTrigger("Die");
+           
         }
         else
         {
             invulnerabilityTimer = invulnerabilityDuration;
             blinkTimer = blinkDuration;
 
-            animator.SetTrigger("Hurt");
-
             if (knockbackOnHit)
             {
-                Vector2 knockback = hitDirection.normalized * knockbackVelocity + Vector2.up * knockbackVelocity * 0.5f;
+                Vector2 knockback = hitDirection.normalized * knockbackVelocity + Vector2.up * knockbackVelocity * 7.0f;
                 rb.velocity = knockback;
 
                 knockbackTimer = knockbackDuration;
@@ -148,16 +146,7 @@ public class Character : MonoBehaviour
         }
     }
 
-    protected virtual void OnDrawGizmosSelected()
-    {
-        if (groundCheckObject != null)
-        {
-            Gizmos.color = Color.red;
-            Gizmos.DrawSphere(groundCheckObject.position, groundCheckRadius);
-        }
-
-       
-    }
+    
 
     public bool IsHostile(Faction faction)
     {
